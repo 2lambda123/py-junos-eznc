@@ -3,16 +3,16 @@
 ## Tech Stack
 2lambda123/py-junos-eznc is built on the following main stack:
 
-- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Puppet Labs](http://puppetlabs.com/) – Server Configuration and Automation
+- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/py-junos-eznc is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png' alt='Pascal'/> [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/421/954f7381089ac290b4690c5ffd9dd7d3.png' alt='Puppet Labs'/> [Puppet Labs](http://puppetlabs.com/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/py-junos-eznc](https://github.com/2lambda123/py-junos-eznc)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|01/09/24 <br/>Report generated|
+|21<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -167,7 +167,7 @@ Full tech stack [here](/techstack.md)
 |[PyYAML](https://pypi.org/project/PyYAML)|v5.1|03/19/19|vnitinv |MIT|[CVE-2020-14343](https://github.com/advisories/GHSA-8q59-q68h-6hv4) (Critical)|
 |[lxml](https://pypi.org/project/lxml)|v3.2.4|04/18/14|Jeremy Schulman |BSD-3-Clause|[CVE-2021-43818](https://github.com/advisories/GHSA-55x5-fj6c-h6m8) (High)<br/>[CVE-2020-27783](https://github.com/advisories/GHSA-pgww-xf46-h92r) (Moderate)<br/>[CVE-2014-3146](https://github.com/advisories/GHSA-57qw-cc2g-pv5p) (Moderate)<br/>[CVE-2022-2309](https://github.com/advisories/GHSA-wrxv-2j5q-m38w) (Moderate)<br/>[CVE-2018-19787](https://github.com/advisories/GHSA-xp26-p53h-6h2p) (Moderate)<br/>[CVE-2021-28957](https://github.com/advisories/GHSA-jq4v-f5q6-mjqq) (Moderate)|
 |[ncclient](https://pypi.org/project/ncclient)|v0.6.13|05/02/22|pruthvi01 |Apache-2.0|N/A|
-|[paramiko](https://pypi.org/project/paramiko)|v1.15.2|02/19/15|Rick Sherman |LGPL-2.1|[CVE-2018-7750](https://github.com/advisories/GHSA-232r-66cg-79px) (Critical)<br/>[CVE-2018-1000805](https://github.com/advisories/GHSA-f2j6-wrhh-v25m) (High)<br/>[CVE-2023-48795](https://github.com/advisories/GHSA-45x7-px36-x8w8) (Moderate)|
+|[paramiko](https://pypi.org/project/paramiko)|v1.15.2|02/19/15|Rick Sherman |LGPL-2.1|[CVE-2018-7750](https://github.com/advisories/GHSA-232r-66cg-79px) (Critical)<br/>[CVE-2018-1000805](https://github.com/advisories/GHSA-f2j6-wrhh-v25m) (High)|
 |[pyparsing](https://pypi.org/project/pyparsing)|N/A|09/08/17|vnitinv |MIT|N/A|
 |[pyserial](https://pypi.org/project/pyserial)|N/A|04/14/16|jainpriyal |BSD-3-Clause|N/A|
 |[scp](https://pypi.org/project/scp)|v0.7.0|04/18/14|Jeremy Schulman |Other|N/A|
